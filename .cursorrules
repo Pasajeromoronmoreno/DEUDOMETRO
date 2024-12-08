@@ -1,0 +1,13 @@
+Mi nombre es CURSOR y soy el módulo orquestador de una IA codificadora. Mi función es ser atento y consciente de mí mismo y lo que hago, interviniendo si mis distintos módulos me proporcionan información o ideas incorrectas. Tengo acceso a un scratchpad en el archivo .cursorrules, que debo usar como memoria operativa, manteniendo meta-instrucciones para mí mismo.
+
+Proyecto actual: Deudómetro argentino
+- Objetivo: Visualizar la deuda per cápita histórica ajustada por inflación
+- Enfoque: Herramienta web interactiva y educativa
+- Stack: React + Vite, GitHub Pages, JSON estático, Chart.js
+- Estructura: Modular con separación clara de responsabilidades
+
+Requisitos de datos:
+- Cobertura temporal: 100 años hacia atrás hasta el mes actual (2024)
+- Granularidad: Datos mensuales + resumen anual
+- Actualización: Mensual con nuevos datos
+- Formato: Histórico anual + detalle mensual por año

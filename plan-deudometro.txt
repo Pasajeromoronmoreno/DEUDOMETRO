@@ -1,0 +1,51 @@
+PLAN DE TRABAJO - DEUDÓMETRO ARGENTINO
+
+1. SETUP INICIAL [Fase 1] ✅
+- Crear repo en GitHub ✅
+- Inicializar proyecto Vite+React ✅
+- Configurar ESLint y Prettier ✅
+- Crear README.md con documentación inicial ✅
+- Estructurar carpetas del proyecto ✅
+- Configurar GitHub Pages ✅
+
+2. MÓDULO DE DATOS [Fase 2] [EN PROGRESO]
+- Definir estructura de datos históricos [SIGUIENTE]
+  * Datos anuales desde 1924 hasta 2024
+  * Datos mensuales para cada año disponible
+  * Sistema de actualización mensual
+- Crear JSONs con datos históricos
+- Implementar parser de datos
+- Crear calculadora de ajustes
+- Implementar sistema de cache local
+- Definir interfaces/tipos para los datos
+
+3. MÓDULO DE VISUALIZACIÓN [Fase 3] [PARCIAL]
+- Desarrollar contador principal ✅
+- Implementar gráfico histórico ✅
+- Mejorar UI/UX
+  * Centrado de elementos
+  * Selector de años mejorado (1924-2024)
+  * Vista detallada mensual
+- Crear visualizaciones comparativas
+- Integrar Chart.js ✅
+
+4. MÓDULO UI/UX [Fase 4]
+- Diseñar interfaz responsive
+- Implementar selector de años extendido
+- Agregar animaciones básicas
+- Crear componentes de navegación
+- Agregar vista mensual/anual toggle
+
+5. INTEGRACIÓN Y TESTING [Fase 5]
+- Integrar todos los módulos
+- Testing básico
+- Optimización de performance
+- Deploy inicial a GitHub Pages
+
+6. REFINAMIENTO [Fase 6]
+- Pulir UI/UX
+- Sistema de actualización automática mensual
+- Documentación
+- Deploy final
+
+¿Comenzamos con la Fase 1? 
